@@ -40,6 +40,8 @@ A test project for the Command Line Tools for Linguists course
 ## Misc. 
 
 [선재 업고 튀어](https://www.netflix.com/kr/title/81914565)
+
 [Pentulive](https://areena.yle.fi/1-78104441)
+
 [Äänis](https://blogs.helsinki.fi/aanenkannattajat/)
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+ 
