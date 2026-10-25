@@ -14,7 +14,7 @@ As my journey allowed me to rewrite the past and prevent the accident, my career
 
 ## Contact
 
-My email address is im.sol@helsinki fi 
+My email address is im.sol@helsinki fi and you can find my CV [here](https://www.overleaf.com/project/6ada073a3c4a5df2afcbb3b7/share#016f2cdbe59440a78a01f869d7d85356e8f2a07a85bd72c9)
 
 ## Courses I've Taken
 
@@ -39,6 +39,6 @@ A test project for the Command Line Tools for Linguists course
 
 ## Misc. 
 
-[선재 업고 튀어](https://www.netflix.com/kr/title/81914565)
-[Pentulive](https://areena.yle.fi/1-78104441)
+[선재 업고 튀어](https://www.netflix.com/kr/title/81914565) 
+[Pentulive](https://areena.yle.fi/1-78104441) 
 [Äänis](https://blogs.helsinki.fi/aanenkannattajat/)
