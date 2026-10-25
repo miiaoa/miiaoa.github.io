@@ -10,7 +10,7 @@ As my journey allowed me to rewrite the past and prevent the accident, my career
 
 ## Find me on
 
-[GitHub](https://github.com/miiaoa), [Eclipse](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve?si=jLWt-zXXRkmZ4lv4SqF85A) 
+[GitHub](https://github.com/miiaoa), [선재 업고 튀어](https://www.netflix.com/kr/title/81914565)
 
 ## Contact
 
@@ -39,6 +39,6 @@ A test project for the Command Line Tools for Linguists course
 
 ## Misc. 
 
-[선재 업고 튀어](https://www.netflix.com/kr/title/81914565) 
+[Eclipse](https://open.spotify.com/artist/5Nw7qx3NoHzpw59WYcJTve?si=jLWt-zXXRkmZ4lv4SqF85A) 
 [Pentulive](https://areena.yle.fi/1-78104441) 
 [Äänis](https://blogs.helsinki.fi/aanenkannattajat/)
