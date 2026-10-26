@@ -64,7 +64,7 @@ command | explanation
 ## **Module 2**: Text Processing in UNIX
 
 The second module mainly focuses on text and data processing and introduces some very useful tools for this purpose. 
-Some of the most useful among these tools are grep/egrep and sed. Sed is quite a powerful tool and can be used for editing files 
+Some of the most useful among these tools are `grep`/`egrep` and `sed`. Sed is quite a powerful tool and can be used for editing files 
 without opening them and for finding and replacing strings, insertion, deletion, search etc. 
 A bit similarly to sed, grep/egrep can also be used to search for lines in text files, for example finding how many tokens appear 
 exactly 27 times in a text:
