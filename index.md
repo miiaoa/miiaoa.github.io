@@ -4,9 +4,19 @@ layout: default
 
 ## Introduction
 
-<img src="https://m.withmuulive.com/web/product/big/202406/aadc45c431a77322230bf5bb315c1296.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Hi my name is Sol Im! In high school, my dream was to study film and become a film director. However, after a life-altering accident, my academic and career path took an unexpected turn. I wasn’t able to attend traditional filmmaking programs as originally planned, but I taught myself digital video editing and media production. I worked behind the scenes, mastering editing software and applying to film production companies to build a practical career in video editing despite many challenges. 
+<img src="https://gdimg.gmarket.co.kr/3879751753/more/00/800?ver=179149" alt="Photo" hspace="20" width="40%" align="right"/> Hi 
+my name is Sol Im! In high school, my dream was to study film and become a film director. 
+However, after a life-altering accident, my academic and career path took an unexpected turn. 
+I wasn’t able to attend traditional filmmaking programs as originally planned, and studied Korean and Linguistics instead, but 
+I taught myself digital video editing and media production on the side. 
+I practised on my own, mastering editing software and applying to film production companies to build a practical career 
+in video editing despite many challenges. 
 
-As my journey allowed me to rewrite the past and prevent the accident, my career and educational timeline transformed entirely. In this restored reality, I could pursue my training and creative ambitions in cinema. I went from working as an aspiring editor to joining a production company called Bon Cinema, eventually advancing to become a full-fledged film director and screenwriter who pitched, wrote, and directed my own original film scripts.
+As my journey allowed me to travel to the past and magically rewrite it preventing the accident, my career and educational 
+timeline transformed entirely. 
+In this restored reality, I could pursue my training and creative ambitions in cinema. 
+I went from working as an aspiring editor to joining a production company called Bon Cinema, eventually advancing to become 
+a full-fledged film director and screenwriter who pitched, wrote, and directed my own original film scripts.
 
 ## Find me on
 
