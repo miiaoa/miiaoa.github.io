@@ -74,11 +74,11 @@ exactly 27 times in a text:
     $ egrep "27 .*" life_of_bee.freq | wc -l 
 
 
-`egrep` the search command
-`"27 .*"` regex for any word form or number that is made up of zero or more characters 
-`life_of_bee.freq` the text being searched (in this case a frequency list with alphanumerical characters only)
-`|` (pipe) filters output through another program, in this case `wc`
-`wc -l` gives the number of lines, i.e. results of the search as a number
+* `egrep` the search command
+* `"27 .*"` regex for any word form or number that is made up of zero or more characters 
+* `life_of_bee.freq` the text being searched (in this case a frequency list with alphanumerical characters only)
+* `|` (pipe) filters output through another program, in this case `wc`
+* `wc -l` gives the number of lines, i.e. results of the search as a number
 
 
 

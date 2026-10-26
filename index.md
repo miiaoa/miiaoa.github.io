@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="https://gdimg.gmarket.co.kr/3879751753/more/00/800?ver=179149" alt="Photo" hspace="20" width="40%" align="right"/> Hi 
+<img src="https://gdimg.gmarket.co.kr/3879751753/more/00/800?ver=179149" alt="Photo" hspace="20" width="35%" align="right"/> Hi 
 my name is Sol Im! In high school, my dream was to study film and become a film director. 
 However, after a life-altering accident, my academic and career path took an unexpected turn. 
 I wasn’t able to attend traditional filmmaking programs as originally planned, and studied Korean and Linguistics instead, but 
